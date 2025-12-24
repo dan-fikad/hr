@@ -1,0 +1,65 @@
+---
+interviewee: template-name
+interviewer: 김일식
+result: ready
+date: template-date
+---
+
+### 후보자 요약
+
+- add summary
+
+### 우려점
+
+- add concerns
+
+### 스크리닝 인터뷰 안내
+
+**process**
+
+- intro → communication → tech/product → ai workflow → q&a/wrapup
+
+**how to question & answer**
+
+- 답변은 짧고 간결하게, 1분에서 최대 2분 정도로 커뮤니케이션.
+- 주로 팩트 위주의 답변. 느낌, 의견이 있다면 짧게.
+
+---
+
+### Tech
+
+- add tech questions
+
+### ai workflow
+
+- 개발하면서 가장 도움을 많이 받았던 경우는.
+
+---
+
+### Team Culture & Communication
+
+- 같이 일한다면 어떤 팀을 기대하는가.
+- 풀스택으로 성장하고 싶은 이유는.
+- 피카디 팀에서 어떻게 성장하고 싶은가.
+- 동기부여가 제일 되는 것은.
+
+### personal growth
+
+- 일하면서 새로운 기술에 대한 학습이 필요하다고 느낄 때 어떻게 하는가.
+
+---
+
+### 추가 확인 질문
+
+- ask questions to mitigate the concerns.
+
+### faq & wrapup
+
+- 다음 프로세스 설명
+    - 과제 - 1주일 정도 기간. 15분 정도 설명 미팅으로 시작. 중간 디자인 미팅 30분. 최종 제출.
+    - 과제 디브리프, 기술 인터뷰, 파운더 인터뷰. 오프라인 당일. 시간은 각각 30분에서 1시간 사이로.
+
+---
+
+### feedback
+
